@@ -6,7 +6,7 @@ A modern iOS app designed for placing orders at the Little Lemon restaurant. Bui
 
 ## 📱 Screenshots
 
-<img src="Screenshot.png" width="300">
+<img src="Screenshot.gif" width="300">
 
 ---
 
